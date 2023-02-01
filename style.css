@@ -1,0 +1,25 @@
+img{
+    margin: 5px;
+    height: 150px;
+
+}
+
+div{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+#home{
+    background-color:red;
+}
+
+.change1{
+    background-color: red;
+}
+
+.change2{
+    background-color: green;
+}
