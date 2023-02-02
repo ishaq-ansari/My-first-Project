@@ -8,18 +8,23 @@ div{
     text-align: center;
 }
 
+#home{
+    background-color:mediumaquamarine;
+    text-align: center;
+}
+
 h1{
     text-align: center;
 }
 
-#home{
-    background-color:red;
+ul{
+    list-style-type: none;
 }
 
 .change1{
-    background-color: red;
+    background-color: skyblue;
 }
 
 .change2{
-    background-color: green;
+    font-size: 20px;
 }

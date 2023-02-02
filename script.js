@@ -6,9 +6,13 @@ const clickBtn2=$('#btn2');
 
 // create function
 function btn1Clicked(){
-    clickBtn1.className = 'change1'; //adding a class to a selected ID
+    clickBtn1.classList.toggle('change1'); 
 }
 
-function btn2Clicked(){
-    clickBtn2.className = 'change2';
+function btn2Hovered(){
+    clickBtn2.className = 'change2'; //adding a class to a selected ID
+}
+
+function btn2UnHovered(){
+    clickBtn2.classList.remove('change2');
 }
