@@ -1,0 +1,42 @@
+*{
+    margin: 5px;
+    padding: 5px;
+}
+
+body{
+    background-color: black;
+}
+
+#main{
+    background-color: red;
+}
+
+button{
+    display: block;
+}
+
+.textSize{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+}
+
+.completed{
+    background-color: greenyellow;
+}
+
+p{
+    text-align: center;
+    font-size: 25pt;
+    text-decoration: underline;
+    color: red;
+    font-weight: bold;
+}
+
+.todo{
+    background-color: beige;
+}
+
+textarea{
+    border-color: aqua;
+    border-width: thick;
+}
